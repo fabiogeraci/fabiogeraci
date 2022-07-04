@@ -1,6 +1,8 @@
 - 🔭 I’m currently working on self improving 
 - 🌱 I’m currently and always learning ...
 
+<img src="https://camo.githubusercontent.com/d7f316daef2732fe803db94a2d984a04a041c13e833c50c8c3900c09d05fdf2d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646e74682673686f775f69636f6e733d74727565266c6f63616c653d656e26636f756e745f707269766174653d7472756526686964653d737461727326686964655f72616e6b3d7472756526637573746f6d5f7469746c653d4d7925323047697448756225323053746174732664697361626c655f616e696d6174696f6e733d74727565267468656d653d707275737369616e" alt="Github Stars" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fabiogeraci&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide=stars&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=prussian" style="max-width: 100%;">
+
 # <img height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> Skills
 
 ## Deep Learning Frameworks
