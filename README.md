@@ -2,6 +2,7 @@
 - 🌱 I’m currently and always learning ...
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogeraci&show_icons=true&theme=radical)
+![fabiogeraci's github stats](https://github-readme-streak-stats.herokuapp.com/?user=fabiogeraci&theme=prussian)
 
 # <img height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> Skills
 
